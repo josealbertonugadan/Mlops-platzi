@@ -1,0 +1,15 @@
+artifact_uri: /Users/josealberto/Documents/GitHub/Mlops-platzi/tracking/experiments_ml/398101700129282801/eeb2d46368e24d74be1efc2d77335664/artifacts
+end_time: 1780000674030
+entry_point_name: ''
+experiment_id: '398101700129282801'
+lifecycle_stage: active
+run_id: eeb2d46368e24d74be1efc2d77335664
+run_name: example_1
+run_uuid: eeb2d46368e24d74be1efc2d77335664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780000671889
+status: 3
+tags: []
+user_id: josealberto
